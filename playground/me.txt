@@ -1,6 +1,0 @@
-{{#user}}
-Name   : Devansh Kumar
-Skills : Java,Python,Machine Learning and AI,React,Android,Mongodb
-Email  : Devanshkumar6298@gmail.com
-Hobbies: Gamming,Football,Coding
-{{\user}}
